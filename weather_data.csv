@@ -1,0 +1,106 @@
+city,region,country,tz_id,local_time,temp_c,condition,wind_kph
+Sultanpur,Uttar Pradesh,India,Asia/Kolkata,2025-08-25 16:23,29.7,Thundery outbreaks in nearby,14.0
+Lucknow,Uttar Pradesh,India,Asia/Kolkata,2025-08-25 16:22,29.2,Mist,15.1
+Kanpur,Uttar Pradesh,India,Asia/Kolkata,2025-08-25 16:23,29.2,Mist,5.4
+Varanasi,Uttar Pradesh,India,Asia/Kolkata,2025-08-25 16:22,28.3,Cloudy,11.5
+Allahabad,Uttar Pradesh,India,Asia/Kolkata,2025-08-25 16:22,29.6,Light rain shower,6.1
+Surat,Gujarat,India,Asia/Kolkata,2025-08-25 16:23,27.6,Light rain shower,28.4
+Mumbai,Maharashtra,India,Asia/Kolkata,2025-08-25 16:23,26.6,Light rain shower,30.6
+Bangalore,Karnataka,India,Asia/Kolkata,2025-08-25 16:23,28.1,Sunny,15.8
+Chennai,Tamil Nadu,India,Asia/Kolkata,2025-08-25 16:22,30.7,Sunny,18.0
+Kolkata,West Bengal,India,Asia/Kolkata,2025-08-25 16:22,30.0,Moderate or heavy rain with thunder,15.1
+Nagpur,Maharashtra,India,Asia/Kolkata,2025-08-25 16:22,27.8,Light rain shower,15.1
+Hyderabad,Telangana,India,Asia/Kolkata,2025-08-25 16:23,28.9,Patchy rain nearby,22.7
+Bhopal,Madhya Pradesh,India,Asia/Kolkata,2025-08-25 16:22,26.2,Light rain shower,19.8
+Indore,Madhya Pradesh,India,Asia/Kolkata,2025-08-25 16:23,26.0,Light rain shower,23.0
+Jabalpur,Madhya Pradesh,India,Asia/Kolkata,2025-08-25 16:22,27.6,Light rain shower,13.3
+Ujjain,Madhya Pradesh,India,Asia/Kolkata,2025-08-25 16:23,26.3,Light rain shower,24.5
+Gwalior,Madhya Pradesh,India,Asia/Kolkata,2025-08-25 16:23,31.5,Light rain shower,9.7
+Raipur,Chhattisgarh,India,Asia/Kolkata,2025-08-25 16:23,26.7,Cloudy,20.2
+Bilaspur,Chhattisgarh,India,Asia/Kolkata,2025-08-25 16:23,28.0,Light rain shower,13.7
+Jalandhar,Punjab,India,Asia/Kolkata,2025-08-25 16:23,23.4,Light rain shower,11.9
+Jodhpur,Rajasthan,India,Asia/Kolkata,2025-08-25 16:23,29.6,Partly Cloudy,16.6
+Patiala,Punjab,India,Asia/Kolkata,2025-08-25 16:23,25.4,Moderate or heavy rain shower,15.1
+Ludhiana,Punjab,India,Asia/Kolkata,2025-08-25 16:23,25.4,Light rain shower,10.8
+Shimla,Himachal Pradesh,India,Asia/Kolkata,2025-08-25 16:23,18.0,Light rain shower,3.6
+Srinagar,Jammu and Kashmir,India,Asia/Kolkata,2025-08-25 16:23,16.4,Patchy light rain,15.8
+Gangtok,Sikkim,India,Asia/Kolkata,2025-08-25 16:23,15.5,Light rain shower,4.0
+Kathmandu,,Nepal,Asia/Kathmandu,2025-08-25 16:38,26.1,Partly cloudy,3.6
+Pokhara,,Nepal,Asia/Kathmandu,2025-08-25 16:38,24.4,Light rain shower,4.0
+Ranchi,Jharkhand,India,Asia/Kolkata,2025-08-25 16:24,27.2,Mist,5.4
+Bhavnagar,Gujarat,India,Asia/Kolkata,2025-08-25 16:24,29.9,Light rain shower,22.3
+Ahmedabad,Gujarat,India,Asia/Kolkata,2025-08-25 16:23,28.4,Light rain shower,14.0
+Vadodara,Gujarat,India,Asia/Kolkata,2025-08-25 16:24,29.2,Light rain shower,19.8
+Jamnagar,Gujarat,India,Asia/Kolkata,2025-08-25 16:24,29.5,Patchy rain nearby,28.1
+Nadiad,Gujarat,India,Asia/Kolkata,2025-08-25 16:23,29.5,Light rain shower,18.7
+Anand,Gujarat,India,Asia/Kolkata,2025-08-25 16:24,29.6,Light rain shower,18.0
+Rajkot,Gujarat,India,Asia/Kolkata,2025-08-25 16:24,29.8,Patchy rain nearby,26.3
+Bhiwani,Haryana,India,Asia/Kolkata,2025-08-25 16:23,31.0,Patchy rain nearby,13.7
+Moradabad,Uttar Pradesh,India,Asia/Kolkata,2025-08-25 16:23,29.0,Patchy rain nearby,23.8
+Gandhinagar,Gujarat,India,Asia/Kolkata,2025-08-25 16:24,27.0,Light rain shower,12.2
+Jaipur,Rajasthan,India,Asia/Kolkata,2025-08-25 16:24,30.2,Mist,5.8
+Noida,Uttar Pradesh,India,Asia/Kolkata,2025-08-25 16:24,29.1,Mist,15.8
+Faridabad,Haryana,India,Asia/Kolkata,2025-08-25 16:24,29.1,Mist,16.2
+Saharanpur,Uttar Pradesh,India,Asia/Kolkata,2025-08-25 16:23,27.0,Light rain shower,18.0
+Sikar,Rajasthan,India,Asia/Kolkata,2025-08-25 16:23,31.1,Patchy rain nearby,9.0
+Udaipur,Rajasthan,India,Asia/Kolkata,2025-08-25 16:24,31.4,Light rain shower,10.1
+Jaipur,Rajasthan,India,Asia/Kolkata,2025-08-25 16:24,30.2,Mist,5.8
+Kota Bharu,Kelantan,Malaysia,Asia/Kuala_Lumpur,2025-08-25 18:53,31.4,Patchy light rain,10.1
+Bikaner,Rajasthan,India,Asia/Kolkata,2025-08-25 16:24,28.2,Patchy rain nearby,21.2
+Rohtak,Haryana,India,Asia/Kolkata,2025-08-25 16:24,29.1,Mist,14.0
+Patna,Bihar,India,Asia/Kolkata,2025-08-25 16:25,31.2,Mist,9.0
+Ayodhya,Uttar Pradesh,India,Asia/Kolkata,2025-08-25 16:25,29.6,Light rain shower,14.0
+Madhubani,Bihar,India,Asia/Kolkata,2025-08-25 16:24,33.0,Partly Cloudy,13.3
+New Delhi,Delhi,India,Asia/Kolkata,2025-08-25 16:24,29.1,Mist,15.8
+Washington,,Aruba,America/Aruba,2025-08-25 06:54,28.1,Patchy rain nearby,32.0
+London,"City of London, Greater London",United Kingdom,Europe/London,2025-08-25 11:55,24.2,Sunny,11.9
+Ottawa,Ontario,Canada,America/Toronto,2025-08-25 06:54,15.3,Clear,5.4
+Canberra,Australian Capital Territory,Australia,Australia/Sydney,2025-08-25 20:54,13.0,Clear,4.0
+Berlin,Berlin,Germany,Europe/Berlin,2025-08-25 12:55,17.3,Overcast,16.9
+Paris,Ile-de-France,France,Europe/Paris,2025-08-25 12:54,25.2,Sunny,6.8
+Rome,Lazio,Italy,Europe/Rome,2025-08-25 12:54,29.0,Sunny,7.2
+Tokyo,Tokyo,Japan,Asia/Tokyo,2025-08-25 19:55,30.3,Partly cloudy,16.9
+Beijing,Beijing,China,Asia/Shanghai,2025-08-25 18:55,28.4,Moderate rain at times,6.1
+Moscow,Moscow City,Russia,Europe/Moscow,2025-08-25 13:55,12.2,Light rain,18.7
+Brasília,Distrito Federal,Brasilien,America/Sao_Paulo,2025-08-25 07:54,16.3,Sunny,12.2
+Pretoria,Gauteng,South Africa,Africa/Johannesburg,2025-08-25 12:54,26.3,Sunny,18.4
+Cairo,Al Qahirah,Egypt,Africa/Cairo,2025-08-25 13:55,34.2,Sunny,15.8
+Mexico City,The Federal District,Mexico,America/Mexico_City,2025-08-25 04:55,16.3,Partly cloudy,4.0
+Buenos Aires,Distrito Federal,Argentina,America/Argentina/Buenos_Aires,2025-08-25 07:55,10.2,Clear,16.9
+Riyadh,Ar Riyad,Saudi Arabia,Asia/Riyadh,2025-08-25 13:54,42.1,Sunny,13.3
+Ankara,Ankara,Turkey,Europe/Istanbul,2025-08-25 13:54,26.1,Partly cloudy,12.2
+Jakarta,Jakarta Raya,Indonesia,Asia/Jakarta,2025-08-25 17:54,24.4,Light rain,9.4
+Kathmandu,,Nepal,Asia/Kathmandu,2025-08-25 16:38,26.1,Partly cloudy,3.6
+Sri Jayewardenepura Kotte,Western,Sri Lanka,Asia/Colombo,2025-08-25 16:24,31.4,Partly cloudy,17.6
+Islamabad,Islamabad,Pakistan,Asia/Karachi,2025-08-25 15:55,26.3,Patchy rain nearby,14.0
+Dhaka,,Bangladesh,Asia/Dhaka,2025-08-25 16:55,31.9,Patchy rain nearby,14.4
+Singapore,,Singapore,Asia/Singapore,2025-08-25 18:55,31.1,Partly cloudy,21.6
+Abu Dhabi,Abu Dhabi,United Arab Emirates,Asia/Dubai,2025-08-25 14:55,43.3,Sunny,16.2
+Kuala Lumpur,Kuala Lumpur,Malaysia,Asia/Kuala_Lumpur,2025-08-25 18:56,33.2,Patchy rain nearby,6.1
+Bangkok,Krung Thep,Thailand,Asia/Bangkok,2025-08-25 17:54,33.4,Partly cloudy,13.7
+Seoul,,South Korea,Asia/Seoul,2025-08-25 19:55,30.0,Partly cloudy,13.7
+Hanoi,,Vietnam,Asia/Bangkok,2025-08-25 17:55,25.1,Light rain,24.8
+Baghdad,Baghdad,Iraq,Asia/Baghdad,2025-08-25 13:55,44.2,Sunny,25.9
+Tehran,Tehran,Iran,Asia/Tehran,2025-08-25 14:25,36.3,Sunny,10.8
+Damascus,Dimashq,Syria,Asia/Damascus,2025-08-25 13:55,35.3,Sunny,11.2
+Riyadh,Ar Riyad,Saudi Arabia,Asia/Riyadh,2025-08-25 13:54,42.1,Sunny,13.3
+Doha,Ad Dawhah,Qatar,Asia/Qatar,2025-08-25 13:56,44.2,Sunny,3.6
+Muscat,Masqat,Oman,Asia/Muscat,2025-08-25 14:56,33.4,Sunny,14.0
+Manama,Al Manamah,Bahrain,Asia/Bahrain,2025-08-25 13:55,45.1,Sunny,14.8
+Amman,Amman Governorate,Jordan,Asia/Amman,2025-08-25 13:55,31.2,Sunny,22.7
+Beirut,Beyrouth,Lebanon,Asia/Beirut,2025-08-25 13:56,31.2,Sunny,25.9
+Minsk,Minsk,Belarus,Europe/Minsk,2025-08-25 13:56,13.3,Partly cloudy,26.3
+Warsaw,,Poland,Europe/Warsaw,2025-08-25 12:55,17.3,Partly cloudy,23.8
+Prague,Hlavni mesto Praha,Czech Republic,Europe/Prague,2025-08-25 12:55,20.1,Sunny,11.5
+Vienna,Wien,Austria,Europe/Vienna,2025-08-25 12:55,21.4,Sunny,11.9
+Brussels,,Belgium,Europe/Brussels,2025-08-25 12:56,22.2,Sunny,6.8
+Amsterdam,North Holland,Netherlands,Europe/Amsterdam,2025-08-25 12:56,20.2,Sunny,4.7
+Oslo,Oslo,Norway,Europe/Oslo,2025-08-25 12:55,15.3,Partly Cloudy,9.0
+Stockholm,Stockholms Lan,Sweden,Europe/Stockholm,2025-08-25 12:56,14.4,Partly cloudy,20.5
+Helsinki,Southern Finland,Finland,Europe/Helsinki,2025-08-25 13:56,16.3,Overcast,15.8
+Copenhagen,Hovedstaden,Denmark,Europe/Copenhagen,2025-08-25 12:56,16.3,Overcast,19.4
+Lisbon,Lisboa,Portugal,Europe/Lisbon,2025-08-25 11:56,24.3,Sunny,7.6
+Athens,Attica,Greece,Europe/Athens,2025-08-25 13:56,32.2,Sunny,8.6
+Budapest,Budapest,Hungary,Europe/Budapest,2025-08-25 12:56,22.1,Sunny,11.2
+Sofia,Grad Sofiya,Bulgaria,Europe/Sofia,2025-08-25 13:55,19.4,Partly cloudy,3.6
+Belgrade,Central Serbia,Serbia,Europe/Belgrade,2025-08-25 12:56,24.4,Sunny,6.1
