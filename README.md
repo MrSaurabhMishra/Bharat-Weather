@@ -1,5 +1,4 @@
-# 🌤 Weather API & Data Toolkit
-
+# 🌤 Weather API
 A powerful **Weather API** and data toolkit focused on providing **real-time weather information**, powered by IMD and other reliable sources.
 
 ---
